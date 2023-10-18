@@ -7,7 +7,7 @@
 touch $1/README.md
 mkdir $1/data/
 mkdir $1/analyses/
-mkdir $1/résultats/
+mkdir $1/resultats/
 mkdir $1/scripts/
 
 # 2. Créer les liens symboliques pour les données

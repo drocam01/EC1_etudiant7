@@ -11,7 +11,7 @@ mkdir $1/résultats/
 mkdir $1/scripts/
 
 # 2. Créer les liens symboliques pour les données
-ln -sf /home/public/EtudesCas1/raw_data/ $1/data/
+ln -sf /home/public/EtudeCas1/raw_data/ $1/data/
 ln -sf /home/public/rna_seq/reference/ $1/data/
 
 # 3. Copier les adapteurs

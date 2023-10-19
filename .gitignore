@@ -1,1 +1,9 @@
+analyses/trimming/
+analyses/trimming/
+analyses/qc/
 analyses/quant/
+data/
+.ipynb_checkpoints/
+analyses/prelim/.ipynb_checkpoints/
+resultats/.ipynb_checkpoints/
+scripts/.ipynb_checkpoints/

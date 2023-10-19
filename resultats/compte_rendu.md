@@ -28,3 +28,11 @@ Anti-sens seulement: 2168 (0.05%)
 
 >nb de séquence de la condition2 ayant été retiré durant le nettoyage:
 1196 (0.03%)
+
+# Analyses d'expression différentielles
+>nb total de gènes différentiellement exprimés:
+3627
+>nb de gènes différentiellement sous-exprimés dans cond1 vs cond2:
+1769
+>nb de gènes différentiellement sur-exprimés dans cond1 vs cond2:
+1858
